@@ -1,2 +1,2 @@
 # scotty-microstache
-Scotty Mustache Implementation
+Scotty Mustache
